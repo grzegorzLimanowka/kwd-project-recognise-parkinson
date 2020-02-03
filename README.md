@@ -1,2 +1,2 @@
 # kwd-project-recognise-parkinson
-Project for comparing diffrend methods or classifiers applied to sample data of patients
+Project for comparing different classifiers applied to sample data of patients to see how they perform
